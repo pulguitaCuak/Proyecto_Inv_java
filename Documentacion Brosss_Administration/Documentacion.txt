@@ -1,0 +1,9 @@
+Proyecto Pañol Silva Facundo
+
+Lenguaje de Desarrollo: Java
+
+
+Dia 1 (30/11/2025)
+
+Desarrollo de Login No funcional Solo visual simple
+Carga de profesores en su tabla con su modal, Proximas funcionalidades a Agregar
